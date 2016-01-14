@@ -1,0 +1,9 @@
+<%= simple_form_for @album do |f| %>
+  <%= f.input :title %>
+  <%= f.simple_fields_for :musics do |m| %>
+    <%= m.input :title, label: "Música" %>
+    <%= m.input :author %>
+    <%= m.input :kind %>
+  <% end %>
+  <%= f.button :submit, class: "btn btn-default" %>
+<% end %>

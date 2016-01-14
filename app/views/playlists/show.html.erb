@@ -1,0 +1,31 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @playlist.title %>
+</p>
+
+<p>
+  <strong>Description:</strong>
+  <%= @playlist.description %>
+</p>
+
+<p>
+  <strong>User:</strong>
+  <%= @playlist.user.email %>
+</p>
+
+<p>
+  <strong>Private:</strong>
+  <%= @playlist.private %>
+</p>
+
+<% @playlist.musics.each do |music| %>
+<p>
+  <strong>Música:</strong>
+  <%= music.title %>
+</p>
+<% end %>
+
+<%= link_to 'Edit', edit_playlist_path(@playlist) %> |
+<%= link_to 'Back', playlists_path %>

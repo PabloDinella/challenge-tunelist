@@ -1,0 +1,24 @@
+<p id="notice"><%= notice %></p>
+
+<h3>
+  <%= @album.title %>
+</h3>
+<hr>
+
+
+<% @album.musics.each_with_index do |music, i| %>
+  <p>
+    <strong>Música <%= i + 1 %>:</strong>
+    <%= music.title %>
+    <%= link_to 'Destroy', music, method: :delete, data: { confirm: 'Are you sure?' } %>
+  </p>
+<% end %>
+
+<div class="pull-left">
+  <%= link_to 'Voltar', albums_path, class: "btn btn-default btn-lg" %>
+</div>
+
+<div class="pull-right">
+  <%= link_to 'Editar', edit_album_path(@album), class: "btn btn-default btn-lg" %>
+  <%= link_to 'Editar', edit_album_path(@album), class: "btn btn-default btn-lg" %>
+</div>

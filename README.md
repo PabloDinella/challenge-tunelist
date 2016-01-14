@@ -12,18 +12,15 @@ Para ver as playlists que já existem:
 - senha: TunePass
 
 ## Índice
-<!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
 - [Tunelist](#tunelist)
-	- [Índice](#ndice)
 	- [Sábado: Ruby](#sbado-ruby)
 	- [Domingo: Rails](#domingo-rails)
 	- [Segunda: :(](#segunda-)
 	- [Terça: Mão na massa](#tera-mo-na-massa)
 	- [Quarta: Tomando forma](#quarta-tomando-forma)
-<!-- /TOC -->
 
-Funcionalidades que tive tempo de implementar:
+## Funcionalidades que tive tempo de implementar:
 
 - Cadastro de usuários com devise
 - Criar uma música junto com o álbum (nested forms, com simple_form)
@@ -31,7 +28,7 @@ Funcionalidades que tive tempo de implementar:
 - Exibir playlists de outros usuários na sua página de playlists
 - Exibir as músicas da playlist
 
-Infelizmente não tive tempo de fazer:
+## Infelizmente não tive tempo de fazer:
 
 - Form para adicionar músicas à playlist
 - Favoritar músicas

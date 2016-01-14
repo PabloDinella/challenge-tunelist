@@ -20,7 +20,7 @@ Para ver as playlists que já existem:
 	- [Terça: Mão na massa](#tera-mo-na-massa)
 	- [Quarta: Tomando forma](#quarta-tomando-forma)
 
-## Funcionalidades que tive tempo de implementar:
+### Funcionalidades que tive tempo de implementar:
 
 - Cadastro de usuários com devise
 - Criar uma música junto com o álbum (nested forms, com simple_form)
@@ -28,7 +28,7 @@ Para ver as playlists que já existem:
 - Exibir playlists de outros usuários na sua página de playlists
 - Exibir as músicas da playlist
 
-## Infelizmente não tive tempo de fazer:
+### Infelizmente não tive tempo de fazer:
 
 - Form para adicionar músicas à playlist
 - Favoritar músicas

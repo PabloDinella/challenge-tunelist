@@ -1,11 +1,11 @@
 # Tunelist
 
-![Header para usuários deslogados](/desafio/tunelist_signedout.png)
-![Header para usuários logados](/desafio/tunelist_signedin.png)
-![Tela para usuários deslogados](/desafio/tunelist_guest.png)
-![Tela de albúns](/desafio/tunelist_albums.png)
-![Tela de músicas](/desafio/tunelist_musics.png)
-![Tela de playlists](/desafio/tunelist_playlists.png)
+<img src="/desafio/tunelist_signedout.png" width="290px" alt="Header para usuários deslogados" />
+<img src="/desafio/tunelist_signedin.png" width="290px" alt="Header para usuários logados" />
+<img src="/desafio/tunelist_guest.png" width="290px" alt="Tela para usuários deslogados" />
+<img src="/desafio/tunelist_albums.png" width="290px" alt="Tela de albúns" />
+<img src="/desafio/tunelist_musics.png" width="290px" alt="Tela de músicas" />
+<img src="/desafio/tunelist_playlists.png" width="290px" alt="Tela de playlists" />
 
 Para ver as playlists que já existem:
 - email: pablo.dinella@gmail.com

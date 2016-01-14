@@ -1,8 +1,27 @@
 # Tunelist
 
+![Header para usuários deslogados](/desafio/tunelist_signedout.png)
+![Header para usuários logados](/desafio/tunelist_signedin.png)
+![Tela para usuários deslogados](/desafio/tunelist_guest.png)
+![Tela de albúns](/desafio/tunelist_albums.png)
+![Tela de músicas](/desafio/tunelist_musics.png)
+![Tela de playlists](/desafio/tunelist_playlists.png)
+
 Para ver as playlists que já existem:
-email: pablo.dinella@gmail.com
-senha: TunePass
+- email: pablo.dinella@gmail.com
+- senha: TunePass
+
+## Índice
+<!-- TOC depth:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+
+- [Tunelist](#tunelist)
+	- [Índice](#ndice)
+	- [Sábado: Ruby](#sbado-ruby)
+	- [Domingo: Rails](#domingo-rails)
+	- [Segunda: :(](#segunda-)
+	- [Terça: Mão na massa](#tera-mo-na-massa)
+	- [Quarta: Tomando forma](#quarta-tomando-forma)
+<!-- /TOC -->
 
 Funcionalidades que tive tempo de implementar:
 
